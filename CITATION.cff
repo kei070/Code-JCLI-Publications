@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Eiselt"
+  given-names: "Kai-Uwe"
+  orcid: "https://orcid.org/0000-0002-9872-3199"
+title: "Code JCLI Papers"
+version: 1.0
+doi: 
+date-released: 2023-05-19
+url: "https://github.com/kei070/Code-JCLI-Papers/"
